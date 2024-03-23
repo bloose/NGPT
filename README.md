@@ -1,18 +1,16 @@
 # NGPT
 Matlab implementation of the modified Noble Gas Paleothermometer
-# Instrument Bias Correction With Machine Learning Algorithms: Application to Field-Portable Mass Spectrometry
+# Sea Ice Formation, Glacial Melt and the Solubility Pump Boundary Conditions in the Ross Sea
 ============
 
 Authors
 --------
-[Brice Loose](https://bloose.github.io)<sup>1</sup>, R.T. Short<sup>2</sup>
-, and S.K. Tolder<sup>2</sup>.
+[Brice Loose](https://bloose.github.io)<sup>1</sup>, Sharon Stammerjohn<sup>2</sup> , Peter Sedwick<sup>3</sup> , and Stephen Ackley<sup>4</sup>
 
 1: [URI Graduate School of Oceanography](https://web.uri.edu/gso/), Narragansett, RI, USA.
-
-2: [SRI International](https://www.sri.com/) Advanced Technology and Systems Division, SRI International, St. Petersburg, FL
- Pasadena, CA, USA.
-
+2: [Institute of Arctic and Alpine Research, CU Boulder](https://www.colorado.edu/instaar/),  Boulder, CO, USA.
+3: [Department of Ocean and Earth Sciences, Old Dominion University](https://www.odu.edu/oes) Norfolk, VA, USA.
+4: [Center for Advanced Measurements in Extreme Environments, University of Texas at San Antonio](https://www.utsa.edu/NASA-CAMEE/team.html), San Antonio, TX, USA.
 
 Abstract
 --------
