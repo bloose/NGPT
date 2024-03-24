@@ -8,9 +8,9 @@ Authors
 [Brice Loose](https://bloose.github.io)<sup>1</sup>, Sharon Stammerjohn<sup>2</sup> , Peter Sedwick<sup>3</sup> , and Stephen Ackley<sup>4</sup>
 
 1: [URI Graduate School of Oceanography](https://web.uri.edu/gso/), Narragansett, RI, USA.<br>
-2: [Institute of Arctic and Alpine Research, CU Boulder](https://www.colorado.edu/instaar/),  Boulder, CO, USA.
-3: [Department of Ocean and Earth Sciences, Old Dominion University](https://www.odu.edu/oes) Norfolk, VA, USA.
-4: [Center for Advanced Measurements in Extreme Environments, University of Texas at San Antonio](https://www.utsa.edu/NASA-CAMEE/team.html), San Antonio, TX, USA.
+2: [Institute of Arctic and Alpine Research, CU Boulder](https://www.colorado.edu/instaar/),  Boulder, CO, USA.<br>
+3: [Department of Ocean and Earth Sciences, Old Dominion University](https://www.odu.edu/oes) Norfolk, VA, USA.<br>
+4: [Center for Advanced Measurements in Extreme Environments, University of Texas at San Antonio](https://www.utsa.edu/NASA-CAMEE/team.html), San Antonio, TX, USA.<br>
 
 Abstract
 --------
