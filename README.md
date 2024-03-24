@@ -1,6 +1,9 @@
 # NGPT
-Matlab implementation of the modified Noble Gas Paleothermometer
-# Sea Ice Formation, Glacial Melt and the Solubility Pump Boundary Conditions in the Ross Sea
+Matlab implementation of the modified Noble Gas Paleothermometer.  The data and scripts found
+here are related to the analyses presented in:
+
+### Sea Ice Formation, Glacial Melt and the Solubility Pump Boundary Conditions in the Ross Sea
+### DOI: 10.1029/2022JC019322
 ============
 
 Authors
@@ -20,13 +23,16 @@ two Ross Sea polynyas reveal the physical processes that determine the boundary 
 
 Status
 ----------
+Manuscript is published.
 
 Code
 ----
-Coding performed in Matlab.  
+Coding performed in Matlab. All dependencies should be satisfied with the files in the repo.
+Solubility functions come from Jenkins, Lott, Cahill 2019 (https://doi.org/10.1016/j.marchem.2019.03.007)
 
-Data
-------
+To execute, download all files into the same directory.
+
+>> pipers_ngpt;  %- Run this at the Matlab command prompt should generate figures.
 
 
 Support
